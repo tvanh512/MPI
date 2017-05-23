@@ -1,0 +1,2 @@
+mpicxx TSP_parallel2.cpp -o TSP_parallel2
+mpiexec -n 4 ./TSP_parallel2
